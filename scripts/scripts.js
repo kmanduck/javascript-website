@@ -26,6 +26,7 @@ function sfunction() {
             }
 
 var bob = 0;
+var calc = 0;
 function ssfunction() {
                 var change = document.getElementById("duration-text");
                 var change2 = document.getElementById("calculated-cost");
